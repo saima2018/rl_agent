@@ -1,0 +1,7 @@
+ipdb==0.13.13
+matplotlib==3.7.2
+numpy==1.25.2
+Pillow==10.1.0
+selenium==4.15.1
+tensorboardX==2.6.2.2
+torch==2.0.1
